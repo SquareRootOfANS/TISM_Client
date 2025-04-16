@@ -1,0 +1,17 @@
+Auto-refresh for commodity prices using the selected interval🔄
+
+Session save/load for investment and tracker data🔄 
+
+Export to JSON from tables 🔄
+
+Discord webhook integration (like org alerts or price warnings) 🔄
+
+Route Planner enhancements (fuel cost estimates, jump counts, etc.) 🔄
+
+Persistent search/filter in tracker with better UX 🔄
+
+SCU Container Sizes for commodity tracker. 🔄
+
+Better nav menu. ✅
+
+make homescreen less shit✅
